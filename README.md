@@ -1,6 +1,6 @@
 ## Hola, soy Johanna 👋  
 💻 Desarrolladora apasionada por el diseño y la programación web.  
-🌱 Actualmente aprendiendo tecnologías como Javascript, Python, PHP, y MySQL.  
+🌱 Actualmente aprendiendo tecnologías como HTML, CSS y Javascript.  
 📫 Contáctame: jmorjuelafdev@gmail.com 
 
 <!---
