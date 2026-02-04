@@ -1,59 +1,56 @@
-# 👋 Hola, soy Johanna Marcela Orjuela
+# 🌿 Johanna Marcela Orjuela
 
-Ingeniera de Sistemas con experiencia en **desarrollo web frontend a nivel junior** y base sólida en **soporte técnico y atención a usuarios**.  
-He participado en proyectos de desarrollo de aplicaciones web, implementación de interfaces de usuario y consumo de APIs, así como en procesos de soporte TI, lo que me permite tener una visión integral del software orientada al usuario.
+![Mint code badge](https://img.shields.io/badge/%3Ccode%2F%3E-7BCDBA?style=for-the-badge&labelColor=1C1F24&color=7BCDBA)
+
+**Frontend Developer · Bogotá, Colombia**  
+_Apasionada por interfaces limpias, accesibles y con propósito._
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 💡 Sobre mí
 
-### Frontend
+Soy Ingeniera de Sistemas con experiencia en **desarrollo web frontend** (nivel junior), soporte TI y acompañamiento a usuarios. Me mueven las interfaces claras, la documentación útil y el aprendizaje continuo. En cada proyecto cuido los detalles visuales y la comunicación con el equipo para garantizar entregas alineadas con las necesidades del usuario final.
 
-- HTML
-- CSS
-- JavaScript
-- Angular
+### Highlights
 
-### Backend / Datos (básico)
+- Ubicación: Bogotá, Colombia 🇨🇴
+- Experiencia en mesas de ayuda y soporte de software
+- Foco actual: Angular, buenas prácticas y componentes reutilizables
 
-- MySQL
-- PHP
-- APIs REST (JSON)
+---
 
-### Otros
+## 🛠️ Radar tecnológico
 
-- Git
-- Excel
-- Soporte de Software
-- Soporte TI / Mesa de Ayuda
+| Frontend | Backend & Datos | Herramientas & Soft Skills |
+| --- | --- | --- |
+| HTML5 · CSS3 · JavaScript ES6 · Angular · Responsive Design | PHP básico · MySQL · Consumo de APIs REST (JSON) | Git · Excel · Documentación técnica · Atención a usuarios · Mesa de ayuda |
+
+> Paleta inspirada en el logo `#7BCDBA` para mantener una identidad fresca y coherente.
 
 ---
 
 ## 📌 Proyectos destacados
 
-Aquí encontrarás proyectos de **desarrollo web frontend**, tanto personales como realizados en el marco de experiencias académicas y laborales.
+1. **Trazabilidad de información** – Interfaz web para seguimiento de solicitudes internas con reportes ligeros.
+2. **Dashboard de soporte TI** – Componentes Angular para visualizar métricas de incidentes y SLA.
+3. **Integraciones con APIs REST** – Consumo de endpoints públicos para prototipos de aprendizaje y demostraciones.
 
-- Aplicaciones web con enfoque en **trazabilidad y control de información**
-- Proyectos frontend con **HTML, CSS, JavaScript y Angular**
-- Consumo de **APIs REST** para funcionalidades básicas
-
-> Algunos proyectos corresponden a experiencias laborales o académicas, por lo que el código publicado puede ser una versión demostrativa sin datos sensibles.
+> Algunos repositorios corresponden a ejercicios académicos o versiones demo sin datos sensibles.
 
 ---
 
-## 🎯 Intereses profesionales
+## 🎯 Intereses y enfoque profesional
 
-- Desarrollo Web Frontend (Junior)
-- Buenas prácticas de desarrollo
-- Aprendizaje continuo
-- Experiencia de usuario
-- Resolución de problemas
+- Desarrollo Web Frontend (nivel junior / trainee)
+- Diseño centrado en la experiencia de usuario
+- Mejora continua y patrones limpios de código
+- Comunicación con equipos multidisciplinares
 
 ---
 
-## 📫 Contacto
+## 🤝 Conectemos
 
-- 📧 Email: <johannaof@hotmail.com>  
-- 💼 LinkedIn: <https://www.linkedin.com/in/johanna-marcela-orjuela-florez>
+[![Email badge](https://img.shields.io/badge/Email-7BCDBA?style=for-the-badge&logo=minutemailer&logoColor=1C1F24)](mailto:johannaof@hotmail.com)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-1C1F24?style=for-the-badge&logo=linkedin&logoColor=7BCDBA)](https://www.linkedin.com/in/johanna-marcela-orjuela-florez)
 
-Gracias por visitar mi perfil 😊
+Gracias por visitar mi perfil — ¡hablemos sobre tu próximo proyecto! 🌱
