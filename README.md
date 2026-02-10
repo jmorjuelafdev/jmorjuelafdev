@@ -2,9 +2,7 @@
 
 ![Badge &lt;code/&gt;](https://img.shields.io/badge/%3Ccode%2F%3E-7BCDBA?style=for-the-badge&labelColor=0f172a&color=7BCDBA)
 
-<p align="center">
-  <img src="./logo.png" alt="Logo Johanna Marcela Orjuela" width="120" />
-</p>
+![Logo de Johanna Marcela Orjuela](./logo.png)
 
 ## Frontend Developer Junior · Bogotá, Colombia 🇨🇴
 
@@ -46,6 +44,8 @@ Este repositorio ahora incluye una **landing interactiva** (`index.html`, `style
 - Consulta automáticamente todos los repositorios públicos de [@jmorjuelafdev](https://github.com/jmorjuelafdev?tab=repositories).
 - Resalta las únicas demos públicas en GitHub Pages (**Test_simulacro** y **Clínica CentSalud**).
 - Ofrece buscador, filtros por tecnologías (incluido **Angular** para Clínica CentSalud), accesos rápidos a repos como **Uparking** y **Tarjeta Digital**, y un toggle de **modo oscuro / modo claro** persistente.
+
+👉 [Visita el portafolio y la presentación de proyectos en GitHub Pages](https://jmorjuelafdev.github.io/jmorjuelafdev/).
 
 ### Cómo desplegar la página
 
