@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Portafolio de Johanna Marcela Orjuela - Frontend Developer"
+    />
+    <title>Johanna Marcela Orjuela · Portafolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <div class="hero__logo">
+          <img src="logo.png" alt="Logo de Johanna Marcela Orjuela" />
+        </div>
+        <button
+          id="theme-toggle"
+          class="theme-toggle"
+          type="button"
+          aria-pressed="true"
+          aria-label="Cambiar tema"
+        >
+          <span class="theme-toggle__icon" aria-hidden="true">🌙</span>
+          <span class="theme-toggle__text">Modo oscuro</span>
+        </button>
+        <p class="eyebrow">Frontend Developer · Bogotá, Colombia</p>
+        <h1>Hola, soy Johanna Marcela Orjuela</h1>
+        <p class="subtitle">
+          Construyo interfaces claras, accesibles y enfocadas en las personas.
+          Aquí encontrarás mis proyectos, enlaces a repositorios y demos listas
+          en GitHub Pages.
+        </p>
+        <div class="hero__actions">
+          <a class="btn" href="#proyectos">Ver proyectos</a>
+          <a class="btn btn--ghost" href="#contacto">Contacto</a>
+        </div>
+      </div>
+      <div class="hero__badge">
+        <span>Disponible</span>
+        <strong>Frontend Jr.</strong>
+      </div>
+    </header>
+
+    <main>
+      <section class="panel" id="proyectos">
+        <header class="panel__head">
+          <div>
+            <p class="eyebrow">Portafolio</p>
+            <h2>Proyectos y repositorios</h2>
+            <p class="subtitle">
+              Las demos sólo están disponibles para
+              <strong>Test_simulacro</strong> y
+              <strong>Clínica CentSalud</strong>. Los demás proyectos se pueden
+              explorar directamente en GitHub.
+            </p>
+          </div>
+          <div class="panel__actions">
+            <label class="search">
+              <input
+                id="search"
+                type="search"
+                placeholder="Buscar por nombre o tecnología"
+                aria-label="Buscar proyectos"
+              />
+              <span>Buscar</span>
+            </label>
+          </div>
+        </header>
+
+        <div class="filters" role="group" aria-label="Filtrar por stack">
+          <button data-filter="all" class="filter filter--active">
+            Todos
+          </button>
+          <button data-filter="HTML" class="filter">HTML</button>
+          <button data-filter="CSS" class="filter">CSS</button>
+          <button data-filter="JavaScript" class="filter">JavaScript</button>
+          <button data-filter="Angular" class="filter">Angular</button>
+          <button data-filter="PHP" class="filter">PHP</button>
+        </div>
+
+        <div class="projects" aria-live="polite"></div>
+      </section>
+
+      <section class="panel panel--secondary" id="contacto">
+        <div>
+          <p class="eyebrow">Contacto</p>
+          <p class="subtitle">
+            Busco oportunidades como Frontend Junior o Trainee. Puedo integrarme
+            a equipos ágiles, seguir lineamientos de diseño y documentar lo
+            aprendido.
+          </p>
+        </div>
+        <ul class="contact-info">
+          <li>
+            <span class="contact-label">Email principal:</span>
+            <a href="mailto:johannaof@hotmail.com">johannaof@hotmail.com</a>
+          </li>
+          <li>
+            <span class="contact-label">Email alterno:</span>
+            <a href="mailto:johannamarcelaof@gmail.com"
+              >johannamarcelaof@gmail.com</a
+            >
+          </li>
+          <li>
+            <span class="contact-label">LinkedIn:</span>
+            <a
+              href="https://www.linkedin.com/in/johanna-marcela-orjuela-florez"
+              target="_blank"
+              rel="noopener noreferrer"
+              >linkedin.com/in/johanna-marcela-orjuela-florez</a
+            >
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <small>
+        © <span id="year"></span> Johanna Marcela Orjuela. Diseñado para GitHub
+        Pages.
+      </small>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
