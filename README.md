@@ -2,7 +2,11 @@
 
 ![Badge &lt;code/&gt;](https://img.shields.io/badge/%3Ccode%2F%3E-7BCDBA?style=for-the-badge&labelColor=0f172a&color=7BCDBA)
 
-![Logo de Johanna Marcela Orjuela](./logo.png)
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img src="./logo.png" alt="Logo de Johanna Marcela Orjuela" width="150" />
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ## Frontend Developer Junior · Bogotá, Colombia 🇨🇴
 
