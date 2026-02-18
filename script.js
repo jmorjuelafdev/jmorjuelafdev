@@ -10,8 +10,8 @@ const rootElement = document.documentElement;
 const THEME_STORAGE_KEY = "jm-theme";
 
 const PROJECT_METADATA = {
-  Test_simulacro: {
-    displayName: "Test Simulacro",
+  Ofimatica_test: {
+    displayName: "Ofimática Test",
     description:
       "Evaluación técnica sobre gestión de pacientes con dashboards, gráficos y consumo de datos simulados.",
     stack: ["HTML", "CSS", "JavaScript"],
