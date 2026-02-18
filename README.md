@@ -46,7 +46,7 @@ En este perfil encontrarás proyectos de **desarrollo web frontend**, personales
 Este repositorio ahora incluye una **landing interactiva** (`index.html`, `styles.css` y `script.js`) que:
 
 - Consulta automáticamente todos los repositorios públicos de [@jmorjuelafdev](https://github.com/jmorjuelafdev?tab=repositories).
-- Resalta las únicas demos públicas en GitHub Pages (**Test_simulacro** y **Clínica CentSalud**).
+- Resalta las únicas demos públicas en GitHub Pages (**Ofimatica_test** y **Clínica CentSalud**).
 - Ofrece buscador, filtros por tecnologías (incluido **Angular** para Clínica CentSalud), accesos rápidos a repos como **Uparking** y **Tarjeta Digital**, y un toggle de **modo oscuro / modo claro** persistente.
 
 👉 [Visita el portafolio y la presentación de proyectos en GitHub Pages](https://jmorjuelafdev.github.io/jmorjuelafdev/).
