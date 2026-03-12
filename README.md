@@ -8,7 +8,7 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-## Frontend Developer Junior · Bogotá, Colombia 🇨🇴
+## Junior Frontend Developer · Bogotá, Colombia 🇨🇴
 
 ---
 
