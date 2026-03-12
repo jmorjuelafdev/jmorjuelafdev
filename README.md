@@ -1,4 +1,4 @@
-# 👋 Johanna Marcela Orjuela
+# 👋 Johanna M. Orjuela
 
 ![Badge &lt;code/&gt;](https://img.shields.io/badge/%3Ccode%2F%3E-7BCDBA?style=for-the-badge&labelColor=0f172a&color=7BCDBA)
 
