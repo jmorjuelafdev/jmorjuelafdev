@@ -16,7 +16,7 @@
 
 Frontend Developer Junior con experiencia en desarrollo de aplicaciones web utilizando **Angular, JavaScript, HTML y CSS**. He trabajado en la construcción de interfaces funcionales, implementación de formularios con validaciones y consumo de APIs REST. Tengo experiencia en aplicaciones tipo CRUD y en la integración de servicios en formato JSON. Me interesa seguir creciendo en desarrollo frontend y aportar a proyectos donde pueda construir soluciones prácticas y centradas en el usuario.
 
-Interesada en oportunidades **Frontend Junior / Trainee**, con enfoque en aprendizaje continuo y buenas prácticas de desarrollo.
+Interesada en oportunidades **Junior Frontend Developer / Junior Web Developer**, con enfoque en aprendizaje continuo y buenas prácticas de desarrollo.
 
 ---
 
