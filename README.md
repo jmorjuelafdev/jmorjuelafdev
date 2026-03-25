@@ -14,8 +14,7 @@
 
 ## 💡 Perfil profesional
 
-Ingeniera de Sistemas con experiencia en **desarrollo web frontend a nivel junior** y trayectoria previa en **soporte TI y atención a usuarios**.  
-Ha participado en proyectos de aplicaciones web, implementación de interfaces de usuario y consumo de APIs, aportando una visión orientada al usuario, claridad funcional y resolución de problemas.
+Frontend Developer Junior con experiencia en desarrollo de aplicaciones web utilizando **Angular, JavaScript, HTML y CSS**. He trabajado en la construcción de interfaces funcionales, implementación de formularios con validaciones y consumo de APIs REST. Tengo experiencia en aplicaciones tipo CRUD y en la integración de servicios en formato JSON. Me interesa seguir creciendo en desarrollo frontend y aportar a proyectos donde pueda construir soluciones prácticas y centradas en el usuario.
 
 Interesada en oportunidades **Frontend Junior / Trainee**, con enfoque en aprendizaje continuo y buenas prácticas de desarrollo.
 
@@ -25,7 +24,7 @@ Interesada en oportunidades **Frontend Junior / Trainee**, con enfoque en aprend
 
 | Frontend | Backend & Datos (básico) | Otros |
 | --- | --- | --- |
-| HTML · CSS · JavaScript · Angular · Responsive Design | PHP · MySQL · APIs REST (JSON) | Git · Excel · Documentación técnica · Soporte TI · Mesa de ayuda |
+| HTML · CSS · JavaScript · Angular · **React + TypeScript** · Responsive Design | PHP · MySQL · Python · APIs REST (JSON) · **Django** · **Supabase** · SQLite | Git · Vibecoding· Ollama · XAMPP · Herramientas ofimáticas · Modelos LLM básicos |
 
 ---
 
@@ -36,6 +35,16 @@ En este perfil encontrarás proyectos de **desarrollo web frontend**, personales
 - Aplicaciones web orientadas a **trazabilidad y control de información**
 - Implementación de **interfaces de usuario con Angular**
 - Consumo de **APIs REST** para funcionalidades básicas
+
+### 🚀 Nuevos proyectos 2026
+
+1. **Gestión de Activos IT** (React + TypeScript + Supabase)
+   - Panel responsive para registrar entregas de hardware, gestionar catálogos y auditar acciones por usuario.
+   - Autenticación y roles con Supabase, bitácora `audit_log`, modo claro/oscuro y flujo de cambio de contraseña obligatorio para operadores.
+
+2. **IT Helpdesk AI** (Django + Python + IA clásica)
+   - Mesa de ayuda bilingüe (ES/EN) con creación, listado y actualización de tickets.
+   - Clasificación automática de urgencia/categoría usando TF‑IDF + regresión logística y sugerencias generadas por un bot integrado.
 
 > Algunos repositorios corresponden a versiones demostrativas o ejercicios académicos, sin datos sensibles.
 
